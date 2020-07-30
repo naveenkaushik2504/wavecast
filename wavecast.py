@@ -7,7 +7,7 @@ Author: Naveen Kaushik
 Published date: July 15, 2020
 
 Please refer to the following link for detailed experiments and results:
--- link --
+https://github.com/naveenkaushik2504/wavecast/blob/master/Masters_Thesis.pdf
 
 
 Sources/References for WaveNet implementations:

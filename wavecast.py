@@ -374,7 +374,7 @@ def optimize():
         # 'batch_size': hp.quniform('batch_size', 20, 80, 5),
         }
 
-    best = fmin(objective, space, algo=tpe.suggest, max_evals=100)
+    best = fmin(objective, space, algo=tpe.suggest, max_evals=4)
 
     print(best)
     return best
@@ -434,7 +434,7 @@ if __name__ == '__main__':
     
     # Run the training for different seeds
     error_list = []
-    for i in range(10):
+    for i in range(2):
         seed_value = random.randint(1, 10)
         print("Running for seed ", int(seed_value))
 

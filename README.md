@@ -2,11 +2,11 @@
 
 This work has been done as part of Master's thesis titled "WaveNet Architectures for Time Series Forecasting".
 
-Author: Naveen Kaushik
+**Author**: Naveen Kaushik
 
-Supervisor: [Dr. Christoph Bergemeir](https://www.cbergmeir.com/)
+**Supervisor**: [Dr. Christoph Bergemeir](https://www.cbergmeir.com/)
 
-Published date: July 15, 2020
+**Published date**: July 15, 2020
 
 ### Software Requirements:
 python>=3.6

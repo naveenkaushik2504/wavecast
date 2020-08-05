@@ -1,5 +1,12 @@
 # wavecast: A forecasting model based on WaveNet architecture
 
+This work has been done as part of Master's thesis titled "WaveNet Architectures for Time Series Forecasting".
+
+Author: Naveen Kaushik
+
+Supervisor: [Dr. Christoph Bergemeir](https://www.cbergmeir.com/)
+
+Published date: July 15, 2020
 
 ### Software Requirements:
 python>=3.6
@@ -24,3 +31,4 @@ The parameters used are explained as follows:
 - frac - fraction of input data to be used
 - result_file - file to write the results based on evaluation metric and hyperparameter values
 
+Most of the datasets used in the experiments are taken from [here](https://zenodo.org/communities/forecasting?page=1&size=20).

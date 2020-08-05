@@ -1,7 +1,7 @@
 
 """
 Code written as part of Master's thesis 
-titled "WaveNet architecture for Time Series forecasting".
+titled "WaveNet Architectures for Time Series Forecasting".
 
 Author: Naveen Kaushik
 Published date: July 15, 2020

@@ -8,6 +8,8 @@ This work has been done as part of Master's thesis titled "WaveNet Architectures
 
 **Published date**: July 15, 2020
 
+# Installation and Usage
+
 ### Software Requirements:
 python>=3.6
 

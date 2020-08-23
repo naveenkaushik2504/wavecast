@@ -33,4 +33,4 @@ The parameters used are explained as follows:
 - frac - fraction of input data to be used
 - result_file - file to write the results based on evaluation metric and hyperparameter values
 
-Most of the datasets used in the experiments are taken from [here](https://zenodo.org/communities/forecasting?page=1&size=20).
+Most of the datasets used in the experiments are available [here](https://zenodo.org/communities/forecasting?page=1&size=20).
